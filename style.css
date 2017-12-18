@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+.editable {
+	padding: 3px;
+}
+
+img {
+	min-width: 20px;
+	min-height: 20px;
+}
