@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-	<paragraph>This is hopefully the header</paragraph>
-	<paragraph>And this the paragraph wot</paragraph>
-	<paragraph>Hvis dette fungerte hadde det vært best</paragraph>
-	<paragraph>Yeah</paragraph>
-	<paragraph>Dette blir bare bedre og bedre dette!</paragraph>
+	<paragraph>Page Titel</paragraph>
+	<paragraph>Home</paragraph>
+	<paragraph>Second</paragraph>
+	<paragraph>Third</paragraph>
+	<paragraph>This is the fourh</paragraph>
+	<paragraph>Fifth Li</paragraph>
+	<paragraph>Second to last</paragraph>
+	<paragraph>Finaly the last</paragraph>
+	<paragraph>Resource Pack</paragraph>
+	<paragraph>NEW</paragraph>
+	<paragraph>Minecraft has never looked so good with these simple and creative changes. Explore countless modifications to the original Minecraft texture pack while still maintaining that default experience.</paragraph>
+	<paragraph>(Note - This update switches over to the glazed terracotta technique. This will not work completely on old versions.)</paragraph>
+	<paragraph>Latest Download</paragraph>
+	<paragraph>Latest Video</paragraph>
 </site>
