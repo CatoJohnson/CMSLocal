@@ -3,4 +3,5 @@
 	<Header>Hello World!</Header>
 	<Paragraph>This is the paragraph</Paragraph>
 	<Smallheader>not...undefined</Smallheader>
+	<Button>TheLoadedButtonXML</Button>
 </site>
