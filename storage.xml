@@ -1,18 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-	<paragraph>Xisumavoid</paragraph><!-- HEADER -->
-	<paragraph>Home</paragraph>
-	<paragraph>Addons</paragraph>
-	<paragraph>Videos</paragraph>
-	<paragraph>Support</paragraph>
-	<paragraph>Plotworldserver</paragraph>
-	<paragraph>Support</paragraph>
-	<paragraph>FAQ</paragraph><!-- /HEADER -->
-	<paragraph>Modular Resource Pack</paragraph><!-- HERO -->
-	<paragraph>UPDATED</paragraph>
-	<paragraph>The modular texture pack makes you able to chooes witch addins and changes you want to make to mincraft. Ranging from small and almost unoticalbe diffrences to a big helper in redstone.</paragraph>
-	<paragraph>(Note - There may come updates and more textures in the future, so bee on the lookout!)</paragraph>
-	<paragraph>Choose your download</paragraph>
-	<paragraph>Download All!</paragraph><!-- /HERO -->
-	<paragraph>Kasper Hoel Webdeveopment Company © 2017, All rights reserved</paragraph> <!-- FOOTER -->
+	<Header>Hello World!</Header>
 </site>
