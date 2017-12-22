@@ -2,4 +2,5 @@
 <site>
 	<Header>Hello World!</Header>
 	<Paragraph>This is the paragraph</Paragraph>
+	<Smallheader>undefined</Smallheader>
 </site>
