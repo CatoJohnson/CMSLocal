@@ -6,12 +6,12 @@
 	<Smallheader>not...undefined</Smallheader>
 	<Button>TheLoadedButtonXML</Button>
 	-->
-	<navigationitemOne>Listitem One</navigationitemOne>
-	<navigationitemTwo>Listitem Two</navigationitemTwo>
-	<navigationitemThree>Listitem Three</navigationitemThree>
-	<navigationitemFour>Listitem Four</navigationitemFour>
-	<herotitle>This is the hero title i think</herotitle>
-	<herodiscription><herotitle>This is the hero title i think</herotitle>I dont really know what i should do in this place, maybe i should just write somthing about what we think our mission is, but lets face it. Its all crap</herodiscription>
-	<herobuttonOne>Readmore</herobuttonOne>
-	<herobuttonTwo>WatchVideo</herobuttonTwo>
+	<navigationitemOne>navigationitemOne</navigationitemOne>
+	<navigationitemTwo>navigationitemTwo</navigationitemTwo>
+	<navigationitemThree>navigationitemThree</navigationitemThree>
+	<navigationitemFour>navigationitemFour</navigationitemFour>
+	<herotitle>herotitle</herotitle>
+	<herodiscription>herodiscription</herodiscription>
+	<herobuttonOne>herobuttonOne</herobuttonOne>
+	<herobuttonTwo>herobuttonTwo</herobuttonTwo>
 </site>
